@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Prata&display=swap');
+
+body{
+    background-color: #dde3ec;
+    padding:0px;
+    font-family:'Montserrat'sans-serif;
+    color: #0a0a0a;
+}
+
+.p1{
+    color:rgb(20, 20, 20);
+    text-decoration:none;
+}
+
+
+.main-section {
+    padding:0 0 0 0;    
+}
+.img{
+    margin:0 0 0 0;
+}
+.image-container{
+    background-image:url("Puglia-Peschici.jpg");
+    height:500px;
+    background-size: 100% 100%;
+    background-repeat: no repeat;
+    margin:0 0 0 0;
+}
+
+h1{
+    font-size: 64px;
+    color:rgb(33, 156, 238);
+}
+h1:hover {
+    color:rgb(212, 159, 112);
+}
+.h3{
+    
+    font-size: 24px;
+    margin-top: 0px;
+}
+h1,h3{
+    font-family:'Prata', serif;
+    font-weight: 500;
+    margin-bottom:0;
+}
+
+.list-link{
+    font-weight: 600;
+    font-style: italic;
+    text-decoration:none underline;
+}
+a:visited { 
+    color:black;
+}
+h6 {
+        padding: 22px;
+        margin-bottom: 0;
+        margin-top: 56px;
+        font-size: 0.9rem;
+        color: rgb(255, 255, 255);
+        border-radius: 7px;
+        background-image: linear-gradient(65deg, #4fa7f3, #ecd5a9);
+    }
+li{
+    padding:6px 0px 6px 22px;
+    border-bottom: 1px solid;
+    border-color: #dfdfdf;
+}
+ul{
+    padding:0px;
+    list-style-type:none;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    padding: 16px;
+}
+#home{
+    font-weight: 100;
+    text-decoration:none;
+    color: #f8f3f2;
+}
+#home:hover {
+    color:#0a88f7;
+}
